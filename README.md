@@ -101,4 +101,4 @@ The application uses `uv` for dependency management and virtual environments. Al
 
 ## License
 
-[Add your license information here]
+MIT - LICENSE 
