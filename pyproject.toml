@@ -1,0 +1,26 @@
+[project]
+name = "resona"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "demucs>=4.0.1",
+    "fastapi>=0.116.1",
+    "librosa>=0.11.0",
+    "matplotlib>=3.9.4",
+    "numpy<2.0",
+    "plotly>=6.2.0",
+    "pydantic>=2.11.7",
+    "pydub>=0.25.1",
+    "python-multipart>=0.0.20",
+    "requests>=2.32.4",
+    "scipy>=1.13.1",
+    "soundfile>=0.13.1",
+    "streamlit>=1.48.0",
+    "streamlit-aggrid>=1.0.5",
+    "torch==2.1.0",
+    "torchaudio==2.1.0",
+    "uvicorn>=0.35.0",
+    "yt-dlp>=2025.7.21",
+]
